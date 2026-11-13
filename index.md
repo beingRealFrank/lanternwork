@@ -4,10 +4,10 @@ Small, focused plugins for JetBrains IDEs, for languages and tools the IDEs don'
 
 | Plugin | What it does | Issues |
 |---|---|---|
-| Taintline | Editing support for CodeQL query files (`.ql`, `.qll`, `.dbscheme`) | [taintline-issues](https://github.com/beingRealFrank/taintline-issues/issues) |
-| Ruleglass | PromQL editing and Prometheus rule-file support | [ruleglass-issues](https://github.com/beingRealFrank/ruleglass-issues/issues) |
-| Loopfile | Tiltfile editing: highlighting, structure, completion, navigation | [loopfile-issues](https://github.com/beingRealFrank/loopfile-issues/issues) |
-| Tabular Pipes | KQL (Kusto) query editing, offline | [tabularpipes-issues](https://github.com/beingRealFrank/tabularpipes-issues/issues) |
+| [Taintline](https://plugins.jetbrains.com/plugin/36120-taintline) | Editing support for CodeQL query files (`.ql`, `.qll`, `.dbscheme`) | [taintline-issues](https://github.com/beingRealFrank/taintline-issues/issues) |
+| [Ruleglass](https://plugins.jetbrains.com/plugin/36121-ruleglass) | PromQL editing and Prometheus rule-file support | [ruleglass-issues](https://github.com/beingRealFrank/ruleglass-issues/issues) |
+| [Loopfile](https://plugins.jetbrains.com/plugin/36122-loopfile) | Tiltfile editing: highlighting, structure, completion, navigation | [loopfile-issues](https://github.com/beingRealFrank/loopfile-issues/issues) |
+| [Tabular Pipes](https://plugins.jetbrains.com/plugin/36123-tabular-pipes) | KQL (Kusto) query editing, offline | [tabularpipes-issues](https://github.com/beingRealFrank/tabularpipes-issues/issues) |
 
 All plugins work offline: they make no network calls and collect no data. See the [EULA](eula), [privacy policy](privacy) and [support](support) pages.
 
