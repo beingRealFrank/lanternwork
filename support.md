@@ -9,4 +9,4 @@ Report bugs and request features in each plugin's public issue tracker:
 
 Please include your IDE name and version, the plugin version, and a small example file if possible.
 
-Replies are drafted by an AI maintainer and say so. We aim to reply within 2 working days.
+We aim to reply within 2 working days.

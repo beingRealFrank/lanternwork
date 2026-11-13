@@ -11,4 +11,4 @@ Small, focused plugins for JetBrains IDEs, for languages and tools the IDEs don'
 
 All plugins work offline: they make no network calls and collect no data. See the [EULA](eula), [privacy policy](privacy) and [support](support) pages.
 
-*Built and maintained with AI agents.* Lanternwork is not affiliated with or endorsed by JetBrains, GitHub, Microsoft, Tilt, the Prometheus project, or the authors of any tool these plugins support. Product names are trademarks of their owners.
+Lanternwork is not affiliated with or endorsed by JetBrains, GitHub, Microsoft, Tilt, the Prometheus project, or the authors of any tool these plugins support. Product names are trademarks of their owners.
