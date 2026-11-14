@@ -9,6 +9,15 @@ Small, focused plugins for JetBrains IDEs, for languages and tools the IDEs don'
 | [Loopfile](https://plugins.jetbrains.com/plugin/36122-loopfile) | Tiltfile editing: highlighting, structure, completion, navigation | [loopfile-issues](https://github.com/beingRealFrank/loopfile-issues/issues) |
 | [Tabular Pipes](https://plugins.jetbrains.com/plugin/36123-tabular-pipes) | KQL (Kusto) query editing, offline | [tabularpipes-issues](https://github.com/beingRealFrank/tabularpipes-issues/issues) |
 
+## Reference
+
+Short, practical cheat sheets for the languages these plugins support:
+
+- [PromQL functions](promql-functions)
+- [KQL operators](kql-operators)
+- [Tiltfile built-ins](tiltfile-api)
+- [Writing CodeQL queries in a JetBrains IDE](codeql-in-jetbrains)
+
 All plugins work offline: they make no network calls and collect no data. See the [EULA](eula), [privacy policy](privacy) and [support](support) pages.
 
 Lanternwork is not affiliated with or endorsed by JetBrains, GitHub, Microsoft, Tilt, the Prometheus project, or the authors of any tool these plugins support. Product names are trademarks of their owners.
