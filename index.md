@@ -18,6 +18,7 @@ Short, practical cheat sheets for the languages these plugins support:
 - [KQL operators](kql-operators)
 - [KQL recipes and common patterns](kql-recipes)
 - [Tiltfile built-ins](tiltfile-api)
+- [Tiltfile recipes and common patterns](tilt-recipes)
 - [Writing CodeQL queries in a JetBrains IDE](codeql-in-jetbrains)
 
 ## Install
