@@ -19,6 +19,15 @@ Short, practical cheat sheets for the languages these plugins support:
 - [Tiltfile built-ins](tiltfile-api)
 - [Writing CodeQL queries in a JetBrains IDE](codeql-in-jetbrains)
 
+## Install
+
+Install from your IDE (Settings | Plugins | Marketplace) or from JetBrains Marketplace:
+
+- [Taintline on JetBrains Marketplace](https://plugins.jetbrains.com/plugin/36120)
+- [Ruleglass on JetBrains Marketplace](https://plugins.jetbrains.com/plugin/36121)
+- [Loopfile on JetBrains Marketplace](https://plugins.jetbrains.com/plugin/36122)
+- [Tabular Pipes on JetBrains Marketplace](https://plugins.jetbrains.com/plugin/36123)
+
 All plugins work offline: they make no network calls and collect no data. See the [EULA](eula), [privacy policy](privacy) and [support](support) pages.
 
 Lanternwork is not affiliated with or endorsed by JetBrains, GitHub, Microsoft, Tilt, the Prometheus project, or the authors of any tool these plugins support. Product names are trademarks of their owners.
