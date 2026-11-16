@@ -16,6 +16,7 @@ Short, practical cheat sheets for the languages these plugins support:
 - [PromQL functions](promql-functions)
 - [PromQL recipes and alert patterns](promql-recipes)
 - [KQL operators](kql-operators)
+- [KQL recipes and common patterns](kql-recipes)
 - [Tiltfile built-ins](tiltfile-api)
 - [Writing CodeQL queries in a JetBrains IDE](codeql-in-jetbrains)
 
