@@ -14,6 +14,7 @@ Small, focused plugins for JetBrains IDEs, for languages and tools the IDEs don'
 Short, practical cheat sheets for the languages these plugins support:
 
 - [PromQL functions](promql-functions)
+- [PromQL recipes and alert patterns](promql-recipes)
 - [KQL operators](kql-operators)
 - [Tiltfile built-ins](tiltfile-api)
 - [Writing CodeQL queries in a JetBrains IDE](codeql-in-jetbrains)
