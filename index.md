@@ -20,6 +20,7 @@ Short, practical cheat sheets for the languages these plugins support:
 - [Tiltfile built-ins](tiltfile-api)
 - [Tiltfile recipes and common patterns](tilt-recipes)
 - [Writing CodeQL queries in a JetBrains IDE](codeql-in-jetbrains)
+- [CodeQL query basics](codeql-query-basics)
 
 ## Install
 
