@@ -35,11 +35,17 @@ select s, "This if statement has an empty body."
 |---|---|---|
 | Class | A set of values with member predicates | `IfStmt`, `MethodCall` |
 | Predicate | A named relation, like a function that may return several results | `predicate isEmpty(Block b) { b.getNumStmt() = 0 }` |
-| `exists` | "There is some value such that…" | `exists(Method m \| m.getName() = "run")` |
 | `not`, `and`, `or` | Logical connectives | `not s.hasElse()` |
 | `instanceof` | Type test | `e instanceof NullLiteral` |
-| `forall` | "For all values…" | `forall(Parameter p \| p.isFinal())` |
 | `result` | The return value of a predicate with a result type | `int getSize() { result = 3 }` |
+
+Quantifiers let a condition range over other values. `exists` means some value satisfies it and `forall` means every value does:
+
+```ql
+from Method m
+where exists(Parameter p | p = m.getAParameter() and p.getName() = "id")
+select m
+```
 
 Queries and `.qll` library files can define your own classes and predicates. A `.qll` file is a shared library; a `.ql` file is a query you run.
 
