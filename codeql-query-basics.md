@@ -35,7 +35,7 @@ select s, "This if statement has an empty body."
 |---|---|---|
 | Class | A set of values with member predicates | `IfStmt`, `MethodCall` |
 | Predicate | A named relation, like a function that may return several results | `predicate isEmpty(Block b) { b.getNumStmt() = 0 }` |
-| `not`, `and`, `or` | Logical connectives | `not s.hasElse()` |
+| `not`, `and`, `or` | Logical connectives | `not e instanceof NullLiteral` |
 | `instanceof` | Type test | `e instanceof NullLiteral` |
 | `result` | The return value of a predicate with a result type | `int getSize() { result = 3 }` |
 
